@@ -1,5 +1,3 @@
-# Arouna-Dramé
-
 ## 👋 Hi, I'm Arouna
 
 Junior Data Scientist with a background in AI & Data Engineering.  
